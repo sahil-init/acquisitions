@@ -1,0 +1,16 @@
+.git
+.gitignore
+.env*
+.env.production
+README.md
+node_modules
+npm-debug.log
+.DS_Store
+logs
+*.log
+.vscode
+.idea
+.prettierignore
+.prettierrc
+eslint.config.js
+drizzle.config.js
